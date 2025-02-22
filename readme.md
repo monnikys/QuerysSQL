@@ -25,7 +25,7 @@ CREATE TABLE CLIENTE(
     CPF VARCHAR(15) UNIQUE
 );
 ```
-
+ 
 ### 🏠 Tabela **ENDERECO**
 
 ```SQL
